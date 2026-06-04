@@ -6,7 +6,7 @@
 ### Sobre mim
 
 Fala! Sou o Hugo, técnico em Informática pelo Senac São Carlos
-e atualmente cursando Engenharia da Computação na Univesp.
+e atualmente cursando Bacharel de Inteligência Artificial na Univesp.
 
 Trabalho principalmente com **back-end e automações**, construindo
 sistemas que integram APIs, bancos de dados e inteligência
@@ -33,13 +33,13 @@ para atender clientes no WhatsApp de forma autônoma.
 
 ### Projetos em destaque
 
-** WhatsAuto**
+**WhatsAuto**
 Sistema de atendimento automatizado via WhatsApp com IA.
 95% das mensagens respondidas automaticamente, tempo médio
 de resposta abaixo de 4 segundos. Stack: Node.js, PostgreSQL,
 N8N, Docker, LangChain, ElevenLabs.
 
-** Luva Tradutora de LIBRAS**
+**Luva Tradutora de LIBRAS**
 Protótipo assistivo com Arduino Uno e sensores flex que
 converte gestos da Língua Brasileira de Sinais em texto
 em tempo real. Stack: C/C++, Arduino, sensores físicos.
