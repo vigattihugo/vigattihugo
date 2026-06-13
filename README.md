@@ -12,9 +12,9 @@ Trabalho principalmente com **back-end e automações**, construindo
 sistemas que integram APIs, bancos de dados e inteligência
 artificial para resolver problemas do dia a dia de forma eficiente.
 
-Gosto de projetos que vão além do óbvio — já programei
+Gosto de projetos que vão além do óbvio, já programei
 microcontroladores com sensores físicos e já coloquei agentes de IA
-para atender clientes no WhatsApp de forma autônoma.
+para atender clientes no WhatsApp de forma autônoma e demais automações.
 
 ---
 
