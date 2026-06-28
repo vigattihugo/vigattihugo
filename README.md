@@ -96,9 +96,6 @@ de forma autônoma e humanizada.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigattihugo&label=Profile+Views&color=1A56A0&style=flat" />
-</p>
 
 <p align="center">
   <i>"Primeiro resolva o problema. Depois escreva o código."</i> — John Johnson
